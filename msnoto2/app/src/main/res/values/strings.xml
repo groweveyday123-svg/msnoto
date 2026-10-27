@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">msnoto</string>
+    <string name="bill_details_placeholder">Bill details will appear here</string>
+    <string name="calculate_bill">Calculate Bill</string>
+    <string name="_18">18</string>
+    <string name="gst">GST (%)</string>
+    <string name="_0">0</string>
+    <string name="quantity">Quantity</string>
+    <string name="customer_billing">Customer Billing</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="customer_address">Customer Address</string>
+    <string name="discount">Discount (₹)</string>
+    <string name="price_per_unit">Price per Unit (₹)</string>
+    <string name="product_service_name">Product / Service Name</string>
+    <string name="product_details">Product Details</string>
+</resources>
